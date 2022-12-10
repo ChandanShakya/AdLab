@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book isbn="978-0131103627">
+    <name>C Programming Language</name>
+    <author>
+        <first>Brian</first>
+        <middle>W.</middle>
+        <last>Kernighan</last>
+    </author>
+    <author>
+        <first>Dennis</first>
+        <middle>M.</middle>
+        <last>Ritchie</last>
+    </author>
+    <pageno>272</pageno>
+    <price>500</price>
+</book>
+<!--
+    Q.04:
+    Write a valid xml to validate the following details:
+    a. Validate record of book with name, author, pageno, price
+    b. Name have first name, middle name and last name
+    c. Author can be multiple
+    d. Highest price limit is 600
+    e. Book have isbn as an attribute
+-->
+

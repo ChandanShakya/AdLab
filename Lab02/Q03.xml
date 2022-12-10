@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist>
+    <song>
+        <name>Lonely</name>
+        <singer>Akon</singer>
+        <composedBy>Bobby Vinton, Gene Allen, Aliaune "Akon" Thiam</composedBy>
+        <length>3:55</length>
+    </song>
+    <song>
+        <name>The Hills</name>
+        <singer>The Weeknd</singer>
+        <composedBy>Abel Tesfaye, Ahmad Balshe, Emmanuel Nickerson, Carlo Montagnese</composedBy>
+        <length>4:02</length>
+    </song>
+    <song>
+        <name>HUMBLE.</name>
+        <singer>Kendrick Lamar</singer>
+        <composedBy>Kendrick Lamar, A. Hogan, Michael L. Williams II, Anthony Tiffith</composedBy>
+        <length>2:57</length>
+    </song>
+    <song>
+        <name>Young Dumb and Broke</name>
+        <singer>Khalid</singer>
+        <composedBy>Khalid Robinson, Joel Little, TALAY RILEY</composedBy>
+        <length>3:22</length>
+    </song>
+</playlist>
+
+<!-- Write XML code to store at least 4 songs with details
+    name
+    singer
+    composed by
+    length
+-->
+

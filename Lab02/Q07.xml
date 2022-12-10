@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xmlstylesheet type="text/xsl" href="Q07.xsl"?>
+<Students>
+    <Student>
+        <Name>Ramesh</Name>
+        <Address>Kathmandu</Address>
+        <RollNo>7</RollNo>
+        <BatchNo>2075</BatchNo>
+    </Student>
+    <Student>
+        <Name>Rajesh</Name>
+        <Address>Lalitpur</Address>
+        <RollNo>77</RollNo>
+        <BatchNo>2059</BatchNo>
+    </Student>
+</Students>
+
+<!--
+Q.07:
+XML for name, address, roll no, Batch No of the students.
+-->
+

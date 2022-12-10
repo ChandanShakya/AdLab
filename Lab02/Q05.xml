@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student>
+    <name>
+        <first>Adarsha</first>
+        <middle>Man</middle>
+        <last>Shakya</last>
+    </name>
+    <email>Ad32@gmail.com</email>
+    <phone>984-123-4567</phone>
+    <address>
+        <permanent>Tahachal, Kathmandu</permanent>
+        <temporary>Bafal, Kathmandu</temporary>
+    </address>
+    <age>25</age>
+</student>
+
+<!--
+    Q.05:
+    Write a valid xml to validate the following details.
+    a. Validate record of student with name, email, phone, address, age
+    b. Name have first name, middle name and last name.
+    c. Address have permanent is required and temporary address is optional.
+    d. And highest age limit is 125.
+-->
+

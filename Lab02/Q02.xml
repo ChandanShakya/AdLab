@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BookStore>
+    <Book lang="en">
+        <Title>Java Programming</Title>
+        <Author>James Gosling</Author>
+        <ISBN>978-0-13-235088-4</ISBN>
+        <Publisher>Prentice Hall</Publisher>
+        <Edition>7th</Edition>
+        <Price>US$ 39.99</Price>
+    </Book>
+    <Book lang="np">
+        <Title>Ek Chihan</Title>
+        <Author>Hridaya Chandra Singh Pradhan</Author>
+        <ISBN>978-9-99-332904-6</ISBN>
+        <Publisher>Sajha Prakashan</Publisher>
+        <Edition>1st</Edition>
+        <Price>US$ 1.99</Price>
+    </Book>
+</BookStore>
+
+<!-- 
+    Q.02:
+    Write a XML file which displays the Book information
+    Title of the Book
+    Author Name
+    ISBN number
+    Publisher Name
+    Edition
+    Price
+-->
