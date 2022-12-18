@@ -17,7 +17,7 @@
                 <xs:element name="address">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="permanent" type="xs:string" use="required"/>
+                            <xs:element name="permanent" type="xs:string" minOccurs="1"/>
                             <xs:element name="temporary" type="xs:string" minOccurs="0"/>
                         </xs:sequence>
                     </xs:complexType>
@@ -27,6 +27,7 @@
                         <xs:restriction base="xs:positiveInteger">
                             <xs:maxInclusive value="125"/>
                         </xs:restriction>
+                    </xs:simpleType>
                 </xs:element>
             </xs:sequence>
         </xs:complexType>
