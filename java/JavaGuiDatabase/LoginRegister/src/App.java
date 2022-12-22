@@ -35,6 +35,7 @@ import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
 import java.sql.*;
+import com.mysql.jdbc.Driver;
 
 public class App extends JFrame implements ActionListener {
     // Declaring the variables

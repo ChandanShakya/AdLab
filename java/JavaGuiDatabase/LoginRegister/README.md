@@ -1,18 +1,26 @@
-## Getting Started
+# How to run this project?
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## In intelliJ IDEA
 
-## Folder Structure
+1. Clone this repository
+2. Open the folder LoginRegister in IntelliJ IDEA
+3. Connect to the database
+4. Run the project
 
-The workspace contains two folders by default, where:
+## In VS Code
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+1. Clone this repository
+2. Open the folder LoginRegister in VS Code
+3. Install Java Extension Pack
+4. Ctrl + Shift + P, Java: Configure Classpath, and add library mysql-connector-java-8.0.31.jar
+5. Run the project
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Note that you need to have a database to run this project. You can import the database swing.sql
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+> Note that you need to have Java installed on your computer to run this project
+# What this project can do?
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Login
+- Register
+- Provides a simple interface
+- Provides a simple database
