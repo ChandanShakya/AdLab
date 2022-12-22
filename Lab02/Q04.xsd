@@ -14,7 +14,7 @@
                     </xs:complexType>
                 </xs:element>
                 <xs:element name="pageno" type="xs:integer"/>
-                <xs:element name="price" type="xs:integer">
+                <xs:element name="price">
                     <xs:simpleType>
                         <xs:restriction base="xs:integer">
                             <xs:maxInclusive value="600"/>
